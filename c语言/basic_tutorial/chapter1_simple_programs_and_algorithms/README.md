@@ -71,4 +71,10 @@ void printMessage(); // 一个函数
 ### 第三节：最简单的C语言程序
 
 #### “Hello World！”
-'''
+```c
+#include <stdio.h>
+main()
+{
+printf("Hello World!");
+}
+```
