@@ -4,55 +4,55 @@
 
 ## 第一章：简单的C语言程序与算法
 
-- [第一章内容](./第一章简单的C语言程序与算法/README.md)
+- [第一章内容](./chapter1_simple_programs_and_algorithms/README.md)
 
 ## 第二章：数据类型（1）
 
-- [第二章内容](./第二章数据类型（1）/README.md)
+- [第二章内容](./chapter2_data_types_1/README.md)
 
 ## 第三章：数据类型（2）
 
-- [第三章内容](./第三章数据类型（2）/README.md)
+- [第三章内容](./chapter3_data_types_2/README.md)
 
 ## 第四章：数据类型（3）
 
-- [第四章内容](./第四章数据类型（3）/README.md)
+- [第四章内容](./chapter4_data_types_3/README.md)
 
 ## 第五章：选择结构
 
-- [第五章内容](./第五章选择结构/README.md)
+- [第五章内容](./chapter5_selection_structures/README.md)
 
 ## 第六章：循环结构
 
-- [第六章内容](./第六章循环结构/README.md)
+- [第六章内容](./chapter6_loop_structures/README.md)
 
 ## 第七章：数组的应用
 
-- [第七章内容](./第七章数组的应用/README.md)
+- [第七章内容](./chapter7_array_applications/README.md)
 
 ## 第八章：函数
 
-- [第八章内容](./第八章函数/README.md)
+- [第八章内容](./chapter8_functions/README.md)
 
 ## 第九章：指针
 
-- [第九章内容](./第九章指针/README.md)
+- [第九章内容](./chapter9_pointers/README.md)
 
 ## 第十章：预处理命令
 
-- [第十章内容](./第十章预处理命令/README.md)
+- [第十章内容](./chapter10_preprocessing_commands/README.md)
 
 ## 第十一章：结构体和共用体
 
-- [第十一章内容](./第十一章结构体和共用体/README.md)
+- [第十一章内容](./chapter11_structures_and_unions/README.md)
 
 ## 第十二章：简单位运算
 
-- [第十二章内容](./第十二章简单位运算/README.md)
+- [第十二章内容](./chapter12_bitwise_operations/README.md)
 
 ## 第十三章：文件
 
-- [第十三章内容](./第十三章文件/README.md)
+- [第十三章内容](./chapter13_files/README.md)
 
 ---
 
